@@ -1,0 +1,4 @@
+*.img filter=lfs diff=lfs merge=lfs -text
+*.qcow2 filter=lfs diff=lfs merge=lfs -text
+*.vmdk filter=lfs diff=lfs merge=lfs -text
+*.vdisk filter=lfs diff=lfs merge=lfs -text
