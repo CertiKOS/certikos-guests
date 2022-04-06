@@ -15,3 +15,7 @@ WNEAJAyTA/yw4+VXs2GzAAAABGhvc3QB
 ```
 
 Note, no passphrase.
+
+- `user`: `certikos`
+- `password`: `111111`
+
