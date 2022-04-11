@@ -1,0 +1,10 @@
+image: ubuntu.18.04.x86_64.qcow2
+file format: qcow2
+virtual size: 20 GiB (21474836480 bytes)
+disk size: 2.78 GiB
+cluster_size: 65536
+Format specific information:
+    compat: 1.1
+    lazy refcounts: true
+    refcount bits: 16
+    corrupt: false
