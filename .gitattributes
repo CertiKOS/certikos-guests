@@ -48,3 +48,4 @@
 *.7z.021 filter=lfs diff=lfs merge=lfs -text
 *.7z.022 filter=lfs diff=lfs merge=lfs -text
 *.7z.023 filter=lfs diff=lfs merge=lfs -text
+ubuntu_20.04.qcow2.7z.001 filter=lfs diff=lfs merge=lfs -text
